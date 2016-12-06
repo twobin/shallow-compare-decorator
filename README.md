@@ -1,0 +1,1 @@
+# shallow-compare-decorator
