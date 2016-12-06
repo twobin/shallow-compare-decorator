@@ -1,6 +1,6 @@
 {
   "name": "shallow-compare-decorator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "shallow compare decorator",
   "main": "lib/index.js",
   "scripts": {
